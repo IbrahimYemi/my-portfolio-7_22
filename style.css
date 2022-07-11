@@ -740,9 +740,11 @@ footer hr {
         margin: 10px;
         text-align: left;
 	height: opx;
+	display:none;
     }
     .header header nav.tabs ul li {
 	height:auto;
+	display:block;
     }
     .header header nav ul  li a {
         text-decoration: none;
