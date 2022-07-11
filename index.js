@@ -129,7 +129,7 @@ function myFunction_set2() {
     r.style.setProperty('--words', '#000000');
     r.style.setProperty('--white', '#ffffff');
     r.style.setProperty('--secondaryblob', '#dfd9d9');
-    r.style.setProperty('--header', '0d0000');
+    r.style.setProperty('--header', '#0d0000');
 }
 function myFunction_set3() {
     r.style.setProperty('--primary', '#1205cc');
@@ -139,7 +139,7 @@ function myFunction_set3() {
     r.style.setProperty('--words', '#106908');
     r.style.setProperty('--white', '#ffffff');
     r.style.setProperty('--secondaryblob', '#dfd9d9');
-    r.style.setProperty('--header', '#060b24');
+    r.style.setProperty('--header', '#1205cc');
 }
 function myFunction_set4() {
     r.style.setProperty('--primary', '#060b24');
