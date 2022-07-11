@@ -739,9 +739,14 @@ footer hr {
     .header header nav ul  li {
         margin: 10px;
         text-align: left;
+	height: opx;
+    }
+    .header header nav.tabs ul li {
+	height:auto;
     }
     .header header nav ul  li a {
         text-decoration: none;
+	color: var(--header);
         font-size: 16px;
         font-weight: 450;
         padding: 5px 10px;
