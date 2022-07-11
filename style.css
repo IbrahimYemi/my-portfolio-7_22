@@ -800,7 +800,7 @@ footer hr {
         border-bottom-left-radius: 50%;
         z-index: -2;
         top: 20vh;
-        left: 60%;
+        left: 40%;
     }
     .header .about {
         display: flex;
