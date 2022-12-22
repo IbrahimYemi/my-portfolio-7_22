@@ -528,6 +528,7 @@ a .fa-twitter-square {
 }
 
 .stack .stack-container .stack-card .css.img img {
+	margin-top: 40px;
     	border-radius: 50%;
 	width: 180px;
 	height: 180px;
