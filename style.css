@@ -526,6 +526,11 @@ a .fa-twitter-square {
     letter-spacing: 2px;
 }
 
+.stack .stack-container .stack-card .css.img img {
+	width:"120px";
+	height:"120px";
+}
+
 /* stack color */
 .html {
     color: rgb(243, 241, 104);
