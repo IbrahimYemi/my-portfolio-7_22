@@ -521,9 +521,10 @@ a .fa-twitter-square {
 }
 
 .stack .stack-container .stack-card h3 {
-    text-align: center;
-    margin-top: 25px;
-    letter-spacing: 2px;
+	text-align: center;
+	margin-top: 25px;
+	letter-spacing: 2px;
+	z-index:15;
 }
 
 .stack .stack-container .stack-card .css.img img {
