@@ -528,10 +528,9 @@ a .fa-twitter-square {
 }
 
 .stack .stack-container .stack-card .css.img img {
-	margin-top: 50px;
     	border-radius: 50%;
-	width: 150px;
-	height: 150px;
+	width: 180px;
+	height: 180px;
 }
 
 /* stack color */
